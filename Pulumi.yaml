@@ -4,7 +4,8 @@ runtime:
   options:
     packagemanager: pnpm
     typescript: false
-description: A minimal AWS JavaScript Pulumi program
+description: Proof of concept for creating a VPC on AWS and using MongoDB Atlas Private Link to establish a secured connection between the two infrastructures.
+
 config:
   pulumi:tags:
     value:
