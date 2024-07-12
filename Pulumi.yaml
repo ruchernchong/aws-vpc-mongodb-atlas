@@ -1,0 +1,11 @@
+name: aws-vpc-mongodb-atlas
+runtime:
+  name: nodejs
+  options:
+    packagemanager: pnpm
+    typescript: false
+description: A minimal AWS JavaScript Pulumi program
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-javascript

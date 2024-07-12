@@ -1,0 +1,6 @@
+config:
+  aws-vpc-mongodb-atlas:AWS_REGION: ap-southeast-1
+  aws-vpc-mongodb-atlas:MONGODB_ORG_ID:
+    secure: AAABAByLCZ+sM6XraZnU1ORPJph2o+H9gou+ayxcne3Elbn35oWybRkw1xw4sAjEUJDlGqWjPGs=
+  aws-vpc-mongodb-atlas:MONGODB_URI:
+    secure: AAABACu5xO5mL1fShMHuBq1WI8QbHVfzbCdIy87/lJKR5WtOusw5nU9d9owU/TRa2F/Xop0fAaI17uY+qDpxz8wpUhjQRTui6A8ZZYK97+/JgDuYMmsZw1Xk2CSFAcWLSp7RpB1vQDivXYso3xmSqMBwvzUrZAqxLimLgxIlJb1FA/uXMfR3NI0Du+NzGuRetD2eWiQ4qoheKis=
